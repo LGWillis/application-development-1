@@ -1,0 +1,14 @@
+- Local Vs Remote:
+    - Project repositories can be either be local or remote. A local repository is one that exists on your computer and is used when you want to change, add, or work on files. A remote repository is one that is hosted elsewhere on a server. GitHub is an example of a platform that can host repositories. By using GitHub, users can easily clone remote repositories and work on them locally before pushing their changes back to GitHub.
+- Repo, Commit, Branch
+    - Repo stands for repository, which is a place that stores project history and includes data such as commits, branches, and other data related to the project. Repositories can either be local or remote.
+    - Commits document the changes that are made to the local repository. They serve as a checkpoint for developers who can use them to go back and review the changes made to the project. When using GitHub, commits require a detailed message that should include information about what was changed.
+    - Branches are used to add new features or make changes to a project. Instead of committing changes to the main branch, developers may create a different branch push changes there. This ensures that the projects main code will stay functional. Branches also let developers work on different features at the same time.
+- Staging Area
+    - The staging area in Git is a place where changes to a project can viewed before they are committed. Developers often make changes to several files before pushing them to a remote repository. The staging area allows them to view these changes, stage the ones they want, and commit them accordingly.
+- Push vs Pull
+    - Push and Pull are commands in Git that let us make changes to a project in a local repository and sync them to a remote repository. When you push changes made on a project, you are sending them to the remote repository. This way, those with access to the remote repository can view your changes and the project code will be up to date. When you use the pull command, you are basically fetching the changes from the remote repository and merges them with your local one. This ensures that the local code is up to date.
+- .gitignore
+    - .gitignore is a file included in a project's repository that lets Git know which files it doesn't have to track. Changes made to these files won't be accounted for, which can help keep the repository clean and lets you avoid committing any sensitive information or temporary files.
+- README
+    - A README file holds the project's documentation. It is stored in the project's root directory and contains information such as how to set up the project, the project's purpose and contents, and any other information relevant to those looking to clone the repository.
