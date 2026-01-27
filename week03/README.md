@@ -14,4 +14,7 @@
 - npm start
     - When you run npm start, npm finds the "start" script and then runs it. So if you have a section in package.json that says "start", npm will run whatever script is defined there.
 
-- Thankfully, I encounted no real issues when creating of this node project. It may be the first time in history where I did not face major issues.
+- Thankfully, I encountered no real issues when creating this node project. It may be the first time in history where I did not face major issues.
+
+
+- <img width="2222" height="1220" alt="Screenshot 2026-01-26 193444" src="https://github.com/user-attachments/assets/29773ab2-3790-4d13-bf6e-8f2b1abf63c0" />
