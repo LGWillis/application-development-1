@@ -9,3 +9,6 @@
 
 4. Which case would you keep if you could only keep one:
     - If I could only keep one case, it would be between the edge case test or the invalid input test. If I keep the the edge case test, I could ensure that no discount is being applied when the total is 100. However, I think that the invalid input test is more important, as a negative input could crash my program or make it produce unwanted results. So, for that reason, I would have to keep the invalid input test.
+
+
+<img width="2219" height="1272" alt="Screenshot 2026-02-02 170416" src="https://github.com/user-attachments/assets/f0417198-7d41-4e76-b116-f75a048759ee" />
