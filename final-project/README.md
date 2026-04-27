@@ -17,7 +17,7 @@ A backend API for managing recipes with user authentication and authorization.
    DB_NAME=recipe_db
 
 4. Start server:
-   npx nodemon server.js
+   node server.js
 
 ## API Endpoints
 
